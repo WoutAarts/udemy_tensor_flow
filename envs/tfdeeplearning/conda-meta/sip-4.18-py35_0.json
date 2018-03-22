@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/linux-64",
+  "date": "2016-07-14",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "bin/sip",
+    "include/python3.5m/sip.h",
+    "lib/python3.5/site-packages/sip.pyi",
+    "lib/python3.5/site-packages/sip.so",
+    "lib/python3.5/site-packages/sipconfig.py",
+    "lib/python3.5/site-packages/sipdistutils.py"
+  ],
+  "fn": "sip-4.18-py35_0.tar.bz2",
+  "license": "GPL3",
+  "link": {
+    "source": "/home/wout/anaconda3/pkgs/sip-4.18-py35_0",
+    "type": 1
+  },
+  "md5": "4062626fd9d4176ff3f6ac259708ed5b",
+  "name": "sip",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 245422,
+  "subdir": "linux-64",
+  "url": "https://repo.continuum.io/pkgs/free/linux-64/sip-4.18-py35_0.tar.bz2",
+  "version": "4.18",
+  "with_features_depends": {}
+}

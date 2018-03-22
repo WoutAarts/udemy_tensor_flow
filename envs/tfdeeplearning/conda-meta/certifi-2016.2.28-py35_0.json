@@ -1,0 +1,45 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/linux-64",
+  "date": "2016-06-07",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "lib/python3.5/site-packages/certifi-2016.2.28-py3.5.egg-info/PKG-INFO",
+    "lib/python3.5/site-packages/certifi-2016.2.28-py3.5.egg-info/SOURCES.txt",
+    "lib/python3.5/site-packages/certifi-2016.2.28-py3.5.egg-info/dependency_links.txt",
+    "lib/python3.5/site-packages/certifi-2016.2.28-py3.5.egg-info/top_level.txt",
+    "lib/python3.5/site-packages/certifi/__init__.py",
+    "lib/python3.5/site-packages/certifi/__main__.py",
+    "lib/python3.5/site-packages/certifi/__pycache__/__init__.cpython-35.pyc",
+    "lib/python3.5/site-packages/certifi/__pycache__/__main__.cpython-35.pyc",
+    "lib/python3.5/site-packages/certifi/__pycache__/core.cpython-35.pyc",
+    "lib/python3.5/site-packages/certifi/cacert.pem",
+    "lib/python3.5/site-packages/certifi/core.py",
+    "lib/python3.5/site-packages/certifi/old_root.pem",
+    "lib/python3.5/site-packages/certifi/weak.pem"
+  ],
+  "fn": "certifi-2016.2.28-py35_0.tar.bz2",
+  "license": "ISC",
+  "license_family": "Other",
+  "link": {
+    "source": "/home/wout/anaconda3/pkgs/certifi-2016.2.28-py35_0",
+    "type": 1
+  },
+  "md5": "bf1519a773d0ba0195920c3bf458c159",
+  "name": "certifi",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 217791,
+  "subdir": "linux-64",
+  "url": "https://repo.continuum.io/pkgs/free/linux-64/certifi-2016.2.28-py35_0.tar.bz2",
+  "version": "2016.2.28",
+  "with_features_depends": {}
+}

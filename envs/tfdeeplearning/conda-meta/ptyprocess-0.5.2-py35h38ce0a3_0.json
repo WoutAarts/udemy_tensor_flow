@@ -1,0 +1,40 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py35h38ce0a3_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/main/linux-64",
+  "depends": [
+    "python >=3.5,<3.6.0a0"
+  ],
+  "files": [
+    "lib/python3.5/site-packages/ptyprocess-0.5.2-py3.5.egg-info",
+    "lib/python3.5/site-packages/ptyprocess/__init__.py",
+    "lib/python3.5/site-packages/ptyprocess/__pycache__/__init__.cpython-35.pyc",
+    "lib/python3.5/site-packages/ptyprocess/__pycache__/_fork_pty.cpython-35.pyc",
+    "lib/python3.5/site-packages/ptyprocess/__pycache__/ptyprocess.cpython-35.pyc",
+    "lib/python3.5/site-packages/ptyprocess/__pycache__/util.cpython-35.pyc",
+    "lib/python3.5/site-packages/ptyprocess/_fork_pty.py",
+    "lib/python3.5/site-packages/ptyprocess/ptyprocess.py",
+    "lib/python3.5/site-packages/ptyprocess/util.py"
+  ],
+  "fn": "ptyprocess-0.5.2-py35h38ce0a3_0.tar.bz2",
+  "license": "ISC",
+  "link": {
+    "source": "/home/wout/anaconda3/pkgs/ptyprocess-0.5.2-py35h38ce0a3_0",
+    "type": 1
+  },
+  "md5": "ab11f16a560fe4d289b90175c9b4981f",
+  "name": "ptyprocess",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 22615,
+  "subdir": "linux-64",
+  "timestamp": 1505690227056,
+  "url": "https://repo.continuum.io/pkgs/main/linux-64/ptyprocess-0.5.2-py35h38ce0a3_0.tar.bz2",
+  "version": "0.5.2",
+  "with_features_depends": {}
+}

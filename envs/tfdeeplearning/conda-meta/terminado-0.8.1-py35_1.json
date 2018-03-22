@@ -1,0 +1,48 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py35_1",
+  "build_number": 1,
+  "channel": "https://repo.continuum.io/pkgs/main/linux-64",
+  "depends": [
+    "ptyprocess",
+    "python >=3.5,<3.6.0a0",
+    "tornado >=4"
+  ],
+  "files": [
+    "lib/python3.5/site-packages/terminado-0.8.1-py3.5.egg-info",
+    "lib/python3.5/site-packages/terminado/__init__.py",
+    "lib/python3.5/site-packages/terminado/__pycache__/__init__.cpython-35.pyc",
+    "lib/python3.5/site-packages/terminado/__pycache__/management.cpython-35.pyc",
+    "lib/python3.5/site-packages/terminado/__pycache__/uimodule.cpython-35.pyc",
+    "lib/python3.5/site-packages/terminado/__pycache__/websocket.cpython-35.pyc",
+    "lib/python3.5/site-packages/terminado/_static/terminado.js",
+    "lib/python3.5/site-packages/terminado/management.py",
+    "lib/python3.5/site-packages/terminado/tests/__init__.py",
+    "lib/python3.5/site-packages/terminado/tests/__pycache__/__init__.cpython-35.pyc",
+    "lib/python3.5/site-packages/terminado/tests/__pycache__/basic_test.cpython-35.pyc",
+    "lib/python3.5/site-packages/terminado/tests/basic_test.py",
+    "lib/python3.5/site-packages/terminado/uimod_embed.js",
+    "lib/python3.5/site-packages/terminado/uimodule.py",
+    "lib/python3.5/site-packages/terminado/websocket.py"
+  ],
+  "fn": "terminado-0.8.1-py35_1.tar.bz2",
+  "license": "BSD 3-clause",
+  "link": {
+    "source": "/home/wout/anaconda3/pkgs/terminado-0.8.1-py35_1",
+    "type": 1
+  },
+  "md5": "a1abebe26478a33b65f0282e00e12e3d",
+  "name": "terminado",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 21291,
+  "subdir": "linux-64",
+  "timestamp": 1517592910613,
+  "url": "https://repo.continuum.io/pkgs/main/linux-64/terminado-0.8.1-py35_1.tar.bz2",
+  "version": "0.8.1",
+  "with_features_depends": {}
+}

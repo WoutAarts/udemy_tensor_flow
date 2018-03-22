@@ -1,0 +1,38 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/linux-64",
+  "date": "2017-07-28",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "lib/python3.5/site-packages/__pycache__/decorator.cpython-35.pyc",
+    "lib/python3.5/site-packages/decorator-4.1.2-py3.5.egg-info/PKG-INFO",
+    "lib/python3.5/site-packages/decorator-4.1.2-py3.5.egg-info/SOURCES.txt",
+    "lib/python3.5/site-packages/decorator-4.1.2-py3.5.egg-info/dependency_links.txt",
+    "lib/python3.5/site-packages/decorator-4.1.2-py3.5.egg-info/not-zip-safe",
+    "lib/python3.5/site-packages/decorator-4.1.2-py3.5.egg-info/top_level.txt",
+    "lib/python3.5/site-packages/decorator.py"
+  ],
+  "fn": "decorator-4.1.2-py35_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "/home/wout/anaconda3/pkgs/decorator-4.1.2-py35_0",
+    "type": 1
+  },
+  "md5": "3e16e7903d5df517ceba2c05e5846886",
+  "name": "decorator",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 14815,
+  "subdir": "linux-64",
+  "url": "https://repo.continuum.io/pkgs/free/linux-64/decorator-4.1.2-py35_0.tar.bz2",
+  "version": "4.1.2",
+  "with_features_depends": {}
+}

@@ -1,0 +1,38 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py35_3",
+  "build_number": 3,
+  "channel": "https://repo.continuum.io/pkgs/free/linux-64",
+  "date": "2016-06-03",
+  "depends": [
+    "ipykernel",
+    "ipywidgets",
+    "jupyter_console",
+    "nbconvert",
+    "notebook",
+    "python 3.5*",
+    "qtconsole"
+  ],
+  "files": [
+    "lib/python3.5/site-packages/jupyter-1.0.0-py3.5.egg-info"
+  ],
+  "fn": "jupyter-1.0.0-py35_3.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "/home/wout/anaconda3/pkgs/jupyter-1.0.0-py35_3",
+    "type": 1
+  },
+  "md5": "bad90cd14ba276a7a221f4fccec9192a",
+  "name": "jupyter",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 2695,
+  "subdir": "linux-64",
+  "url": "https://repo.continuum.io/pkgs/free/linux-64/jupyter-1.0.0-py35_3.tar.bz2",
+  "version": "1.0.0",
+  "with_features_depends": {}
+}

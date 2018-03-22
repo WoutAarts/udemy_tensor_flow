@@ -1,0 +1,44 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/linux-64",
+  "date": "2017-05-16",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "lib/python3.5/site-packages/colorama-0.3.9-py3.5.egg-info",
+    "lib/python3.5/site-packages/colorama/__init__.py",
+    "lib/python3.5/site-packages/colorama/__pycache__/__init__.cpython-35.pyc",
+    "lib/python3.5/site-packages/colorama/__pycache__/ansi.cpython-35.pyc",
+    "lib/python3.5/site-packages/colorama/__pycache__/ansitowin32.cpython-35.pyc",
+    "lib/python3.5/site-packages/colorama/__pycache__/initialise.cpython-35.pyc",
+    "lib/python3.5/site-packages/colorama/__pycache__/win32.cpython-35.pyc",
+    "lib/python3.5/site-packages/colorama/__pycache__/winterm.cpython-35.pyc",
+    "lib/python3.5/site-packages/colorama/ansi.py",
+    "lib/python3.5/site-packages/colorama/ansitowin32.py",
+    "lib/python3.5/site-packages/colorama/initialise.py",
+    "lib/python3.5/site-packages/colorama/win32.py",
+    "lib/python3.5/site-packages/colorama/winterm.py"
+  ],
+  "fn": "colorama-0.3.9-py35_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "/home/wout/anaconda3/pkgs/colorama-0.3.9-py35_0",
+    "type": 1
+  },
+  "md5": "8db2822aba7015c56dde16915cc0dfa3",
+  "name": "colorama",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 22720,
+  "subdir": "linux-64",
+  "url": "https://repo.continuum.io/pkgs/free/linux-64/colorama-0.3.9-py35_0.tar.bz2",
+  "version": "0.3.9",
+  "with_features_depends": {}
+}

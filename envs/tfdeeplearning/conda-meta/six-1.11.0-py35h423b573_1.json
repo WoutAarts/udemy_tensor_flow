@@ -1,0 +1,38 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py35h423b573_1",
+  "build_number": 1,
+  "channel": "https://repo.continuum.io/pkgs/main/linux-64",
+  "depends": [
+    "python >=3.5,<3.6.0a0"
+  ],
+  "files": [
+    "lib/python3.5/site-packages/__pycache__/six.cpython-35.pyc",
+    "lib/python3.5/site-packages/six-1.11.0-py3.5.egg-info/PKG-INFO",
+    "lib/python3.5/site-packages/six-1.11.0-py3.5.egg-info/SOURCES.txt",
+    "lib/python3.5/site-packages/six-1.11.0-py3.5.egg-info/dependency_links.txt",
+    "lib/python3.5/site-packages/six-1.11.0-py3.5.egg-info/top_level.txt",
+    "lib/python3.5/site-packages/six.py"
+  ],
+  "fn": "six-1.11.0-py35h423b573_1.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/wout/anaconda3/pkgs/six-1.11.0-py35h423b573_1",
+    "type": 1
+  },
+  "md5": "576d38abfcb7ceb3b323b802b1fec665",
+  "name": "six",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 21870,
+  "subdir": "linux-64",
+  "timestamp": 1508610522504,
+  "url": "https://repo.continuum.io/pkgs/main/linux-64/six-1.11.0-py35h423b573_1.tar.bz2",
+  "version": "1.11.0",
+  "with_features_depends": {}
+}

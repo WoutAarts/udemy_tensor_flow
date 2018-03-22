@@ -1,0 +1,39 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/linux-64",
+  "date": "2016-09-16",
+  "depends": [
+    "path.py",
+    "python 3.5*"
+  ],
+  "files": [
+    "lib/python3.5/site-packages/__pycache__/pickleshare.cpython-35.pyc",
+    "lib/python3.5/site-packages/pickleshare-0.7.4-py3.5.egg-info/PKG-INFO",
+    "lib/python3.5/site-packages/pickleshare-0.7.4-py3.5.egg-info/SOURCES.txt",
+    "lib/python3.5/site-packages/pickleshare-0.7.4-py3.5.egg-info/dependency_links.txt",
+    "lib/python3.5/site-packages/pickleshare-0.7.4-py3.5.egg-info/requires.txt",
+    "lib/python3.5/site-packages/pickleshare-0.7.4-py3.5.egg-info/top_level.txt",
+    "lib/python3.5/site-packages/pickleshare.py"
+  ],
+  "fn": "pickleshare-0.7.4-py35_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/home/wout/anaconda3/pkgs/pickleshare-0.7.4-py35_0",
+    "type": 1
+  },
+  "md5": "8d8035fbceae0a65d3ff4d5bb417e01e",
+  "name": "pickleshare",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 8847,
+  "subdir": "linux-64",
+  "url": "https://repo.continuum.io/pkgs/free/linux-64/pickleshare-0.7.4-py35_0.tar.bz2",
+  "version": "0.7.4",
+  "with_features_depends": {}
+}

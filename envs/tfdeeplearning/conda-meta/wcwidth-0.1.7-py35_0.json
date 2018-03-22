@@ -1,0 +1,48 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/linux-64",
+  "date": "2016-07-12",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "lib/python3.5/site-packages/wcwidth-0.1.7-py3.5.egg-info/PKG-INFO",
+    "lib/python3.5/site-packages/wcwidth-0.1.7-py3.5.egg-info/SOURCES.txt",
+    "lib/python3.5/site-packages/wcwidth-0.1.7-py3.5.egg-info/dependency_links.txt",
+    "lib/python3.5/site-packages/wcwidth-0.1.7-py3.5.egg-info/top_level.txt",
+    "lib/python3.5/site-packages/wcwidth-0.1.7-py3.5.egg-info/zip-safe",
+    "lib/python3.5/site-packages/wcwidth/__init__.py",
+    "lib/python3.5/site-packages/wcwidth/__pycache__/__init__.cpython-35.pyc",
+    "lib/python3.5/site-packages/wcwidth/__pycache__/table_wide.cpython-35.pyc",
+    "lib/python3.5/site-packages/wcwidth/__pycache__/table_zero.cpython-35.pyc",
+    "lib/python3.5/site-packages/wcwidth/__pycache__/wcwidth.cpython-35.pyc",
+    "lib/python3.5/site-packages/wcwidth/table_wide.py",
+    "lib/python3.5/site-packages/wcwidth/table_zero.py",
+    "lib/python3.5/site-packages/wcwidth/tests/__init__.py",
+    "lib/python3.5/site-packages/wcwidth/tests/__pycache__/__init__.cpython-35.pyc",
+    "lib/python3.5/site-packages/wcwidth/tests/__pycache__/test_core.cpython-35.pyc",
+    "lib/python3.5/site-packages/wcwidth/tests/test_core.py",
+    "lib/python3.5/site-packages/wcwidth/wcwidth.py"
+  ],
+  "fn": "wcwidth-0.1.7-py35_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/home/wout/anaconda3/pkgs/wcwidth-0.1.7-py35_0",
+    "type": 1
+  },
+  "md5": "e4af0270fea38df05cd41c061bddddcf",
+  "name": "wcwidth",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 21745,
+  "subdir": "linux-64",
+  "url": "https://repo.continuum.io/pkgs/free/linux-64/wcwidth-0.1.7-py35_0.tar.bz2",
+  "version": "0.1.7",
+  "with_features_depends": {}
+}
